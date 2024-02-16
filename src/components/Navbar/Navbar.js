@@ -213,7 +213,7 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#resume'
+                                to='https://docs.google.com/document/d/1ZWXICBL4GtGjecXo2CabhTgXVmcj5yob/edit?usp=sharing&ouid=108560080761880797765&rtpof=true&sd=true'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
